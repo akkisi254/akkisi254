@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @akkisi254
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Ankit Singh  
 
-<!---
-akkisi254/akkisi254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Aspiring Software Developer | Web & Python Enthusiast | Future IT Explorer Abroad**  
+
+---
+
+## 🚀 About Me  
+- 🎓 Diploma in **Computer Science & Engineering**  
+- 🛠 Skilled in **Python, HTML, CSS, Bootstrap, MySQL**  
+- 🌍 Passionate about building real-world projects & exploring global opportunities  
+- ✨ Open to **Remote work / Relocation (Germany, Switzerland, Australia)**  
+
+---
+
+## 🔧 Tech Skills  
+- **Languages:** Python, SQL, HTML, CSS  
+- **Frameworks & Tools:** Bootstrap, Tkinter, Figma  
+- **Databases:** MySQL  
+- **Special Interests:** Web Development, Data Analysis, Cybersecurity Basics  
+
